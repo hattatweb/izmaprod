@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-29",
   "restaurant": {
     "name": "IZ Uigurisches Restaurant Mannheim",
     "phone": "0176 43145847",
@@ -13,7 +13,7 @@
     "priceRange": "€€"
   },
   "notice": {
-    "enabled": false,
+    "enabled": true,
     "text": "Wir haben vom 1. bis 7. Januar Betriebsferien."
   },
   "hero": {
