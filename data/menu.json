@@ -9,7 +9,7 @@
         {
           "nr": 1,
           "name": "Uigur Salat",
-          "price": "5,99 €",
+          "price": "6,99 €",
           "description": "Karotten, Glasnudeln, Paprika und Knoblauch",
           "allergens": "",
           "image": "assets/yemekler/1.webp",
@@ -558,23 +558,6 @@
           "image": "assets/yemekler/90.webp",
           "available": true,
           "recommended": false
-        }
-      ]
-    },
-    {
-      "id": "nachspeisen",
-      "title": "Nachspeisen",
-      "visible": true,
-      "items": [
-        {
-          "nr": 95,
-          "name": "Baklava",
-          "price": "5,00 €",
-          "description": "Test",
-          "allergens": "Gluten",
-          "image": "assets/yemekler/baklava-mvtmt5fm.webp",
-          "available": true,
-          "recommended": true
         }
       ]
     }
