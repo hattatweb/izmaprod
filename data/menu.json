@@ -560,23 +560,6 @@
           "recommended": false
         }
       ]
-    },
-    {
-      "id": "nachspeisen",
-      "title": "Nachspeisen",
-      "visible": true,
-      "items": [
-        {
-          "nr": 95,
-          "name": "Baklava",
-          "price": "5,00 €",
-          "description": "1 Portion",
-          "allergens": "",
-          "image": "assets/yemekler/baklava-mvthgf6i.webp",
-          "available": true,
-          "recommended": false
-        }
-      ]
     }
   ]
 }
