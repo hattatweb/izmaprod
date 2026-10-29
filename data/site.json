@@ -13,7 +13,7 @@
     "priceRange": "€€"
   },
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "text": "Wir haben vom 1. bis 7. Januar Betriebsferien."
   },
   "hero": {
